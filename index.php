@@ -25,7 +25,7 @@
     <legend>好きな本</legend>
      <label>書籍名：<input type="text" name="book"></label><br>
      <label>書籍URL：<input type="text" name="book_url"></label><br>
-     <label>書籍コメントppp：<textArea name="book_comment" rows="4" cols="40"></textArea></label><br>
+     <label>書籍コメント：<textArea name="book_comment" rows="4" cols="40"></textArea></label><br>
      <input type="submit" value="送信">
     </fieldset>
   </div>
